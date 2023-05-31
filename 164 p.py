@@ -2,7 +2,7 @@
 from tkinter import *
 from tkinter import filedialog
 from PIL import ImageTk, Image
-import os
+
 
 root = Tk()
 root.geometry("600x600")
